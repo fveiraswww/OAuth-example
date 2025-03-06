@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "OAuth-example",
   "private": true,
   "scripts": {
     "build": "turbo run build",
