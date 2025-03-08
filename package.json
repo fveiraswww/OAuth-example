@@ -1,5 +1,5 @@
 {
-  "name": "OAuth-example",
+  "name": "OAuth_example",
   "private": true,
   "scripts": {
     "build": "turbo run build",

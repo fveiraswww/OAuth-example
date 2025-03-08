@@ -1,0 +1,20 @@
+{
+  "name": "oauth-example",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bun --hot run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/pg": "^8.11.11",
+    "bcryptjs": "^3.0.2",
+    "hono": "^4.7.4",
+    "pg": "^8.13.3"
+  }
+}
